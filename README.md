@@ -9,7 +9,7 @@ Explorer :
 
 ## 1. Instal Otomatis
 ```
-wget -qO okp4.sh https://raw.githubusercontent.com/mohojir/OKP4-NODE/main/okp4.sh && chmod +x okp4.sh && ./okp4.sh
+wget -qO okp4.sh https://raw.githubusercontent.com/rickydnokz/Okp4d-TESTNET/main/okp4.sh && chmod +x okp4.sh && ./okp4.sh
 ```
 ## 2. Load Sistem
 ```
